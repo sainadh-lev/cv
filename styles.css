@@ -1,0 +1,33 @@
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+a {
+  font-size: 25px;
+}
+.big {
+  font-size: 50px;
+  color: red;
+}
+body {
+  text-align: center;
+  background: #e8eae6;
+  color: red;
+}
+hr {
+  border-style: dotted none none;
+  margin-top: auto;
+  margin-bottom: auto;
+  border-width:  10px;
+  width: 10%;
+  border-color: orange;
+}
+h1 {
+  font-size: 75px;
+  color: red;
+}
+img {
+  background-color: grey;
+  border-radius: 50%;
+}
